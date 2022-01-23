@@ -1,0 +1,30 @@
+/*------- Navbar------- */
+
+.navbar{
+    background: #2874F0 !important;
+}
+
+.navbar-brand {
+    font-size: 30px !important;
+    
+}
+.nav-item a{
+    background-color: #FFFFFF !important;
+    color: #2874F0 !important;
+    
+}
+.nav-item{
+    margin: 5px;
+    display: inline;
+}
+
+@media screen and (max-width: 992px) {
+    .nav-item a{
+        background-color:#2874F0  !important;
+        color:  #FFFFFF !important;   
+       
+    }  
+}
+.col-12{
+      width: 100%;
+}
